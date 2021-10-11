@@ -1,0 +1,35 @@
+"Werner":
+  - firstname: ["B."]
+    url: https://www.bartscancer.london/staff/dr-benjamin-werner/
+
+"Park":
+  - firstname: ["H.J.", "H.-J."]
+    url: http://hjpark.me/
+
+"Huang":
+  - firstname: ["W."]
+    url: https://www.qmul.ac.uk/maths/profiles/huangw.html
+
+"Peña":
+  - firstname: ["J."]
+    url: https://jorgeapenas.github.io/
+
+"Garcia":
+  - firstname: ["J."]
+    url: https://www.garciajulian.com/
+
+"Gokhale":
+  - firstname: ["C.S.", "C. S."]
+    url: https://tecoevo.github.io
+
+"Traulsen":
+  - firstname: ["Arne", "A."]
+    url: http://web.evolbio.mpg.de/~traulsen/#home
+
+"Rainey":
+  - firstname: ["Paul", "P.B.", "P. B."]
+    url: https://www.evolbio.mpg.de/mpb
+
+"Maltsev":
+  - firstname: ["V.P."]
+    url: http://cyto.kinetics.nsc.ru/index_en.html
