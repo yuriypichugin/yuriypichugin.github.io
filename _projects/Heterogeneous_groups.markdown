@@ -8,7 +8,7 @@ category: Theory of multicellularity
 ---
 
     Research here is performed in collaboration with Dr. Yuanxiao Gao, whom I had the honor 
-    to supervise during her Ph.D. studies.
+    to co-supervise during her Ph.D. studies.
 
 
 Whenever a species accepts a multicellular life cycle, its evolution becomes influenced by the interactions of cells within a multicellular body.
@@ -35,6 +35,6 @@ Here, we developed the theoretical framework that allows us investigating the ev
 **Core model. What is the optimal reproduction mode if colony growth is determined by cell interactions**: *Interacting cells driving the evolution of multicellular life cycles.* Gao, Y., Traulsen, A., and Pichugin, Y. PLoS Computational Biology, 2019. ([link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006987))
 
 
-**How develpmental strategy is shaped by cells interactions**: *Evolution of irreversible somatic differentiation.* Gao, Y., Park, H.J., Traulsen, A., and Pichugin, Y. biorxiv, 2021 ([link](https://www.biorxiv.org/content/10.1101/2021.01.18.427219v1.abstract))
+**How develpmental strategy is shaped by cells interactions**: *Evolution of irreversible somatic differentiation.* Gao, Y., Park, H.J., Traulsen, A., and Pichugin, Y. eLife, 2021 ([link](https://elifesciences.org/articles/66711))
 
 **What is the optimal fragmentation mode under the interplay between cells interactions and raw size benefits**: *Evolution of reproductive strategies in incipient multicellularity.* Gao, Y., Pichugin, Y., Gokhale, C. S., and Traulsen, A. bioRxiv, 2021 ([link](https://www.biorxiv.org/content/10.1101/2021.09.13.460035v1))

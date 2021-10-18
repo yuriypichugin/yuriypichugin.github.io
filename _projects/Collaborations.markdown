@@ -43,7 +43,7 @@ The mutant game creates an open-ended dynamical population, in which not only th
     Principal collaborators: Dr. Benjamin Werner, Dr. Weini Huang.
 
 Besides the chromosomes, cancer cells also contain extrachromosomal DNA. 
-These ecDNA pieces are replicated at every round of cell division but unlike chromosomes, their distribution to the daughter cells is not controlled in the course of the cell cycle. 
+These ecDNA pieces are replicated at every round of cell division but unlike chromosomes, their distribution to the daughter cells is not controlled by the centromeres. 
 As a result, the dynamics of ecDNA copy numbers distribution is stochastic.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
