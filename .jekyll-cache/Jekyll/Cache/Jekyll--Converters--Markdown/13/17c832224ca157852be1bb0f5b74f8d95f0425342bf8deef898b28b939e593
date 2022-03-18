@@ -1,0 +1,129 @@
+I"Ë<div class="projects">
+  
+  <!-- Display categorized projects -->
+    
+      <h2 class="category">Theory of multicellularity</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/Homogeneous_groups/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Homogeneous_1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Evolution of life cycles of homogeneous groups</h2>
+        <p class="card-text">From a solitary cell to a colony</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/Heterogeneous_groups/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Heterogeneous_1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Evolution of life cycles of heterogeneous groups</h2>
+        <p class="card-text">From a bunch of identical cells to a collective with diverse members</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/Experimental_multicellularity/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Empirical_evolution_1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Empirical evolution of multicellularity</h2>
+        <p class="card-text">Models for experimental studies</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+      <h2 class="category">Other topics</h2>
+      
+      
+      <!-- Generate cards for each project -->
+      
+        <div class="grid">
+          
+            <div class="grid-item">
+  
+  <a href="/projects/Metapopulations/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Metapopulations_1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Evolution in metapopulations</h2>
+        <p class="card-text">Interactions and migrations</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+            <div class="grid-item">
+  
+  <a href="/projects/Collaborations/">
+  
+    <div class="card hoverable">
+      
+      <img src="/assets/img/Collaborations_1.jpg" alt="project thumbnail" />
+      
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">Collaborations</h2>
+        <p class="card-text">Exciting side quests</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+          
+        </div>
+      
+    
+
+  
+
+</div>
+:ET
