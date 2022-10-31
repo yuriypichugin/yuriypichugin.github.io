@@ -57,15 +57,17 @@ As a result, the dynamics of ecDNA copy numbers distribution is stochastic.
 
 ### Papers
 
+*The evolutionary dynamics of extrachromosomal DNA in human cancers.*
+Joshua T. Lange, John C. Rose, Celine Y. Chen, Yuriy Pichugin, Liangqi Xie, Jun Tang, King L. Hung, Kathryn E. Yost, Quanming Shi, Marcella L. Erb, Utkrisht Rajkumar, Sihan Wu, Sabine Taschner-Mandl, Marie Bernkopf, Charles Swanton, Zhe Liu, Weini Huang, Howard Y. Chang, Vineet Bafna, Anton G. Henssen, Benjamin Werner & Paul S. Mischel.
+Nature Genetics, 2022.
+([link](https://www.nature.com/articles/s41588-022-01177-x))
+
+
 *Stochastic dynamics of extra-chromosomal DNA.* 
 Pichugin, Y., Huang, W., and Werner, B. 
 bioRxiv, 2019. 
 ([link](https://www.biorxiv.org/content/10.1101/2019.12.15.876714v1.abstract))
 
-*Principles of ecDNA random inheritance drive rapid genome change and therapy resistance in human cancers.* 
-Lange, J.T., Chen, C.Y., Pichugin, Y., Xie, L., Tang, J., Hung, K.L., Yost, K.E., Shi, Q., Erb, M.L., Rajkumar, U., Wu, S., Swanton, C., Liu, Z., Huang, W., Chang, H.Y., Bafna, V., Henssen, A.G., Werner, B., and Mischel, P.S.
-biorxiv, 2021.
-([link](https://www.biorxiv.org/content/10.1101/2021.06.11.447968v1.abstract))
 
 
 
@@ -96,6 +98,6 @@ It turns out that reductions in limbs and chondrocranium are, for some reason, c
 *Limb reduction in squamate reptiles correlates with the reduction of the chondrocranium: a case study on serpentiform anguids.*
 Yaryhin, O., Klembara, J., Pichugin, Y., Kaucka, M., and Werneburg, I.
 Developmental Dynamics, 2021.
-([link]())
+([link](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.307))
 
 
