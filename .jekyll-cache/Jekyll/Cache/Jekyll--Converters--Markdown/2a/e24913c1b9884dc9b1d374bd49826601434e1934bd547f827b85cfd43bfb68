@@ -1,0 +1,36 @@
+I"1<p>The first organisms were unicellular. 
+Whenever such a cell divided, its offspring ventured to live independently on each other.
+Multicellular life cycles emerged when daughter cells did not part their ways but remained together, forming a group.
+Much later, these organisms gave rise to the fascinating complexity of animals, plants, fungi, brown algae, and many other multicellular species.
+But what were the very first steps in the evolution of multicellularity?</p>
+
+<p>In the absence of complex adaptations, the difference between unicellular and multicellular existence comes from the raw size of the cell colony.
+The larger size can bring benefits to the organism in a form of better protection or access to additional resources.
+However, evolutionary success requires the production of the offspring, which means that the colony must fragment into smaller pieces in order to multiply.
+Due to the smaller size, the offspring may not gain as many benefits as the parent group had.</p>
+
+<p>Considering arbitrary benefits and costs of the colony size, what is the evolutionarily optimal fragmentation mode? Is it deterministic or stochastic? At which size the fragmentation should occur? Is it even beneficial to become multicellular at all? How many offspring should be produced, and should they be equal in size or diverse?</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/Homogeneous_2.jpg" alt="" title="example image" />
+    </div>
+    <div class="col-4">
+    </div>
+</div>
+<div class="caption">
+         
+</div>
+
+<h2 id="papers">Papers:</h2>
+
+<p><strong>Core model. What is the optimal fragmentation mode if the colony growth and death are determined by its size</strong>: <em>Fragmentation modes and the evolution of life cycles.</em> Pichugin, Y., Peña, J., Rainey, P.B., and Traulsen, A. PLoS Computational Biology, 2017. (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005860">link</a>)</p>
+
+<p><strong>What if benefits and costs of colony size change with time</strong>: <em>Evolution of simple multicellular life cycles in dynamic environments.</em> Pichugin, Y., Park, H.J., and Traulsen, A., Journal of the Royal Society Interface, 2019 (<a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0054">link</a>)</p>
+
+<p><strong>What if fragmentation cannot be performed for free</strong>: <em>Evolution of multicellular life cycles under costly fragmentation.</em> Pichugin, Y., and Traulsen, A., PLOS Computational Biology, 2020 (<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008406">link</a>)</p>
+
+<p><strong>What if the organism mass changes continuously - this extends the applicability of the model beyond just multicellularity</strong>: <em>The possible modes of microbial reproduction are fundamentally restricted by distribution of mass between parent and offspring.</em> Pichugin, Y., and Traulsen, A., Proceedings of the National Academy of Sciences, 2022 (<a href="https://www.pnas.org/doi/10.1073/pnas.2122197119">link</a>)</p>
+
+<p><strong>What if colonies compete with each other</strong>: <em>Eco-evolutionary dynamics of clonal multicellular life cycles.</em> Ress, V., Traulsen, A., and Pichugin, Y., eLife, 2022 (<a href="https://elifesciences.org/articles/78822">link</a>)</p>
+:ET
