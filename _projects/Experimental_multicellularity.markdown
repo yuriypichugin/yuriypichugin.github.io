@@ -28,5 +28,5 @@ This can be either a toy model, providing a transparent interpretation of observ
 
 **Impact of propagule mixing on the evolution of multicellularity**: *Meta-population structure and the evolutionary transition to multicellularity.* Rose, C.J., Hammerschmidt, K., Pichugin, Y., and Rainey, P.B. Ecology Letters, 2020. ([link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13570))
 
-**Environmentally mediated multicellular life cycle**: *Phenotypic plasticity, life cycles, and the evolutionary transition to multicellularity.* Tang, S., Pichugin, Y., and Hammerschmidt, K. bioRxiv, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.09.29.462355v1))
+**Environmentally mediated multicellular life cycle**: *An environmentally induced multicellular life cycle of a unicellular cyanobacterium* Tang, S., Pichugin, Y., and Hammerschmidt, K. Current Biology, in press. ([link](https://www.biorxiv.org/content/10.1101/2021.09.29.462355v1))
 
