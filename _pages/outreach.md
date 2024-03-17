@@ -14,9 +14,9 @@ The rules can be found here: [in English]({{ '/assets/pdf/Outreach/EN-Life_cycle
 
 ## Popular science articles
 
-On evolution of multicellularity (article written for popular science project "New principia"):
+On evolution of multicellularity:
 
-**From one to many**: [pdf]({{ '/assets/pdf/Outreach/Article_From_one_to_many.pdf' | relative_url }}) 
+**From one to many** (article written for popular science project "New principia"): [pdf]({{ '/assets/pdf/Outreach/Article_From_one_to_many.pdf' | relative_url }}) 
 
 On COVID-2019 pandemic. At the beginning of 2020, a group of scientists in Max Planck Institute in Ploen started the [website](http://web.evolbio.mpg.de/evoltheo_corona/index.html) with information about the virus and the pandemic. I contributed to two articles there:
 
