@@ -7,23 +7,25 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2024.jpg
   address: >
-    <p>107A Guyot hall</p>
-    <p>Princeton University</p>
-    <p>Princeton, NJ 08544, USA </p>
+    <p>August-Thienemann-Str. 2</p>
+    <p>24306 Plön, Germany</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a theoretical biologist studying the evolution of emergent traits. My research focuses on the evolution of multicellularity and simple life cycles: why initially solitary cells formed collectives, why these cells adopted a division of labor, and how the loose cell collectives gained their own identity and became multicellular organisms. 
+I am a theoretical biologist interested in the emergence of complexity and self-organization in evolving systems. Primarily, my research focuses on the evolution of multicellular life cycles: why initially solitary cells formed collectives, why these cells adopted a division of labor, and how the loose cell collectives gained their own identity and became multicellular organisms.  Beyond this topic, I worked on eco-evolutionary dynamics, evolutionary game theory, and mathematical oncology (which also deals with evolution a lot).
 
-Besides this primary topic, I also contributed to collaborative projects in eco-evolutionary dynamics, evolutionary game theory, and mathematical oncology (which also deals with evolution a lot).
+My research is motivated by biological phenomena. To study them, I emplyoy a variety of technical approaches: from pen-and-paper calculations, to large-scale computer simulations, to data science methods - depending on what is more suitable for the challenge.
 
+Currently, I am a project lead in the [Theoretical Biology department](https://theobio.evolbio.mpg.de/) at the Max Planck Institute for Evolutionary Biology.
+
+<!---
 Currently, I am a postdoc in the [Tarnita lab](https://scholar.princeton.edu/ctarnita) at Princeton University.
-
+--->
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com) {:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
