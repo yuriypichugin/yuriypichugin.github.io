@@ -44,3 +44,5 @@ Considering arbitrary benefits and costs of the colony size, what is the evoluti
 **What if the organism mass changes continuously - this extends the applicability of the model beyond just multicellularity**: *The possible modes of microbial reproduction are fundamentally restricted by distribution of mass between parent and offspring.* Pichugin, Y., and Traulsen, A., Proceedings of the National Academy of Sciences, 2022 ([link](https://www.pnas.org/doi/10.1073/pnas.2122197119))
 
 **What if colonies compete with each other**: *Eco-evolutionary dynamics of clonal multicellular life cycles.* Ress, V., Traulsen, A., and Pichugin, Y., eLife, 2022 ([link](https://elifesciences.org/articles/78822))
+
+**What if colonies are differentially distributed across space**: *Direct benefits are not necessary for the evolution of multicellularity.* Jorge, D., Staps, M., Pichugin, Y., and Tarnita, C., Nature Ecology and Evolution, 2026 ([link](https://www.nature.com/articles/s41559-026-03044-y))

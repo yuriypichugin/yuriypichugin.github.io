@@ -38,3 +38,5 @@ Here, we developed the theoretical framework that allows us investigating the ev
 **How develpmental strategy is shaped by cells interactions**: *Evolution of irreversible somatic differentiation.* Gao, Y., Park, H.J., Traulsen, A., and Pichugin, Y. eLife, 2021 ([link](https://elifesciences.org/articles/66711))
 
 **What is the optimal fragmentation mode under the interplay between cells interactions and raw size benefits**: *Evolution of reproductive strategies in incipient multicellularity.* Gao, Y., Pichugin, Y., Gokhale, C. S., and Traulsen, A. Journal of the Royal Society Interface, 2022 ([link](https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0716))
+
+**What are the optimal stage-dependent developmental strategies**: *Evolution of irreversible differentiation under stage-dependent cell differentiation.* Gao, Y., Pichugin, Y., Traulsen, A., and Zapien-Campos, R. Scientific Reports, 2025 ([link](https://www.nature.com/articles/s41598-025-91838-8))
