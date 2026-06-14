@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evolution of life cycles of homogeneous groups
+title: Emergence of life cycles
 description: From a solitary cell to a colony
 img: /assets/img/Homogeneous_1.jpg
 importance: 1

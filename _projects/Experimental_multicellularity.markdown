@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Empirical evolution of multicellularity
-description: Models for experimental studies
+description: The theory brought to the lab
 img: /assets/img/Empirical_evolution_1.jpg
-importance: 3
-category: Theory of multicellularity
+importance: 1
+category: Synergies with experiments (empirical collaborations)
 ---
 
 

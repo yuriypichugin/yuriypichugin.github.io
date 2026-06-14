@@ -1,15 +1,11 @@
 ---
 layout: page
-title: Evolution of life cycles of heterogeneous groups
-description: From a bunch of identical cells to a collective with diverse members
+title: Evolution of cell differentiation
+description: From a colony of identical cells to a collective with diverse members
 img: /assets/img/Heterogeneous_1.jpg
 importance: 2
 category: Theory of multicellularity
 ---
-
-    Research here is performed in collaboration with Dr. Yuanxiao Gao, whom I had the honor 
-    to co-supervise during her Ph.D. studies.
-
 
 Whenever a species accepts a multicellular life cycle, its evolution becomes influenced by the interactions of cells within a multicellular body.
 For example, if cells are capable to exhibit division of labor, being a member of a large colony brings an advantage over solitary existence in which no benefits from other cells can be gained.

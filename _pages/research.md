@@ -5,7 +5,7 @@ order: 2
 permalink: /research/
 description: 
 nav: true
-display_categories: [Theory of multicellularity, Other topics]
+display_categories: [Theory of multicellularity, Eco-evolutionary dynamics, Synergies with experiments (empirical collaborations)]
 horizontal: false
 ---
 <div class="projects">
